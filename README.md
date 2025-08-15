@@ -17,6 +17,3 @@ This repository contains solutions for two problems:
    - Returns:
      - DP table
      - Optimal item selection `Z`
-
-## Example – Knapsack
-Input:
